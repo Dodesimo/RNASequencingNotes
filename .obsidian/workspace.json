@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "61d001da50333925",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "scRNA/Quality Control.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "scRNA/Intro to RNA Seq.md",
+                "file": "scRNA/Quality Control.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "scRNA/Intro to RNA Seq.md",
+                "file": "scRNA/Quality Control.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "scRNA/Intro to RNA Seq.md"
+                "file": "scRNA/Quality Control.md"
               }
             }
           }
@@ -146,10 +159,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "762bd01de19df3a0",
+  "active": "61d001da50333925",
   "lastOpenFiles": [
-    "README.md",
+    "Screenshot 2024-08-02 at 4.32.21 PM.png",
+    "Screenshot 2024-08-02 at 3.50.00 PM.png",
     "scRNA/Intro to RNA Seq.md",
+    "scRNA/Quality Control.md",
+    "README.md",
     "scRNA"
   ]
 }
