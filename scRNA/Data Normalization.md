@@ -1,0 +1,29 @@
+- Remove non-biological variation.
+- Count distributions need to be comparable.
+- If 3' tagged data, there is only cell-specific normalization.
+- For full length, gene length matters. 
+- No correlation between sequencing depth.
+- Single cell: has far more variation (low mRNA count, variable mRNA capture, and variable sequencing length.)
+- Diff cell types, bulk-seq normalization don't work. 
+- Spike-ins: used to see how much technical variance there is.
+- Used using the whole data: assuming that gene expression doesn't change that much. 
+- How to normalize:
+	- Size factors
+	- Probabilitistic models (zero-inflated negative binomial)
+- Size Factors Normalization: read size should not affect expression level.
+	- Issues with current size factor methods.
+	- Global scaling: RNA levels constant amongst cells, thus a modified CPM normalization.
+	- Deconvolution:
+		- Pool cells (sum up counts), compare with mega pool (all the cells).
+		- Process keeps repeating until cells are part of multiple pools.
+		- System of equations involving the expression of each gene. 
+		- SCRAN
+	- Bayesian analysis: typically requires spike-ins.
+- How to select interesting genes?
+	- Excluding genes that do not contribute interesting information.
+	- Highly variable genes.
+		- Pick genes with higher variance.
+		- High dropout: cell type specific, so interesting.
+		- Gene correlations: just look at whether expression of one causes increase in the other. 
+	- Correlated gene pairs/groups.
+	- Top PCA loadings --> what is being loaded?
