@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scRNA/Intro to RNA Seq.md",
+                "file": "scRNA/Dimensionality Reduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "scRNA/Data Integration.md",
+                "file": "scRNA/Dimensionality Reduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "scRNA/Data Integration.md",
+                "file": "scRNA/Dimensionality Reduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "scRNA/Data Integration.md"
+                "file": "scRNA/Dimensionality Reduction.md"
               }
             }
           }
@@ -159,24 +158,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "61d001da50333925",
+  "active": "762bd01de19df3a0",
   "lastOpenFiles": [
+    "Screenshot 2024-08-04 at 1.51.22 PM.png",
+    "Screenshot 2024-08-04 at 1.49.29 PM.png",
+    "scRNA/Data Integration.md",
+    "Screenshot 2024-08-04 at 1.33.14 PM.png",
+    "Screenshot 2024-08-04 at 1.29.03 PM.png",
+    "scRNA/Dimensionality Reduction.md",
+    "Screenshot 2024-08-04 at 1.27.07 PM.png",
+    "scRNA/Confounding Factors.md",
+    "scRNA/Quality Control.md",
+    "scRNA/Data Normalization.md",
+    "scRNA/Intro to RNA Seq.md",
+    "Screenshot 2024-08-04 at 1.24.38 PM.png",
     "Screenshot 2024-08-04 at 12.58.36 PM.png",
     "Screenshot 2024-08-04 at 12.54.50 PM.png",
     "Screenshot 2024-08-04 at 12.50.09 PM.png",
     "Screenshot 2024-08-04 at 12.48.26 PM.png",
     "Screenshot 2024-08-04 at 12.43.59 PM.png",
-    "Screenshot 2024-08-04 at 12.33.42 PM.png",
-    "Screenshot 2024-08-04 at 12.19.19 PM.png",
-    "Screenshot 2024-08-04 at 12.13.06 PM.png",
-    "scRNA/Confounding Factors.md",
-    "scRNA/Data Integration.md",
-    "Screenshot 2024-08-03 at 12.54.03 PM.png",
-    "scRNA/Data Normalization.md",
-    "Screenshot 2024-08-03 at 12.15.20 PM.png",
-    "scRNA/Quality Control.md",
-    "Screenshot 2024-08-02 at 4.32.21 PM.png",
-    "scRNA/Intro to RNA Seq.md",
     "README.md",
     "scRNA"
   ]

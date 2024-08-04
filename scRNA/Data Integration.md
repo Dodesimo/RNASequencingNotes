@@ -31,3 +31,4 @@
 		1. Put unique molecular identifiers on the cells. 
 	4. Main points:
 		![[Screenshot 2024-08-04 at 12.58.36 PM.png]]
+2. 
