@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scRNA/Data Normalization.md",
+                "file": "scRNA/Clustering.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "scRNA/Data Integration.md",
+                "file": "scRNA/Clustering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "scRNA/Data Integration.md",
+                "file": "scRNA/Clustering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "scRNA/Data Integration.md"
+                "file": "scRNA/Clustering.md"
               }
             }
           }
@@ -159,8 +158,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "61d001da50333925",
+  "active": "762bd01de19df3a0",
   "lastOpenFiles": [
+    "scRNA/Data Normalization.md",
+    "scRNA/Data Integration.md",
+    "scRNA/Clustering.md",
     "Screenshot 2024-08-05 at 12.28.06 PM.png",
     "Screenshot 2024-08-05 at 12.26.11 PM.png",
     "Screenshot 2024-08-05 at 12.23.16 PM.png",
@@ -171,12 +173,8 @@
     "Screenshot 2024-08-05 at 12.12.40 PM.png",
     "Screenshot 2024-08-05 at 12.11.47 PM.png",
     "Screenshot 2024-08-05 at 12.07.13 PM.png",
-    "Screenshot 2024-08-05 at 12.05.42 PM.png",
-    "scRNA/Data Normalization.md",
-    "scRNA/Clustering.md",
     "scRNA/Dimensionality Reduction.md",
     "IMG_3080.heic",
-    "scRNA/Data Integration.md",
     "scRNA/Confounding Factors.md",
     "scRNA/Quality Control.md",
     "scRNA/Intro to RNA Seq.md",
