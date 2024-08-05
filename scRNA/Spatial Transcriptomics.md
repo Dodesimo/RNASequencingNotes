@@ -1,0 +1,30 @@
+![[Screenshot 2024-08-05 at 5.45.09 PM.png]]
+- Pipeline above.
+- But tissues are heterogeneous. 
+	- So spatial information matters.
+- Ideal workflow:
+	- RNA detection in situ.
+	- Analyze. 
+	- Then, spatial transcriptomics
+- In situ: in the cell, just have something that hybridizes and has a unique molecular tag. 
+- Single molecule FISH. 
+	- fluorescence in situ hybridization, smaller markers, therefore more specificity in color. 
+- Cycilc labeling:
+	- Add florescent tags, image, remove, repeat with different tags. 
+- Image can be transformed into a matrix:
+	- ![[Screenshot 2024-08-05 at 5.55.58 PM.png]]
+- Barcoding:
+	- Each RNA has a pre-determined sequence of tags.
+	- Add tag 1 for round 1, add tag 2 for round 2, sequence of tags determines the RNA.![[Screenshot 2024-08-05 at 6.05.17 PM.png]]
+		- ![[Screenshot 2024-08-05 at 6.07.37 PM.png]]
+	- MerFISH: use Hamming codes!
+	- Sparse codes: more gaps, so therefore more capable of detecting more genes. 
+	- ![[Screenshot 2024-08-05 at 6.14.17 PM.png]]
+	- in situ sequencing
+		- Reverse transcription based. ![[Screenshot 2024-08-05 at 6.16.49 PM.png]]
+	- FISSEQ: untargeted, unbiased way of sequencing.
+	- ![[Screenshot 2024-08-05 at 6.19.11 PM.png]]
+	- Spatial transcriptomics:
+		- RNA ID (spatial barcode) is integrated into the DNA. ![[Screenshot 2024-08-05 at 6.23.30 PM.png]]
+		- ![[Screenshot 2024-08-05 at 6.24.31 PM.png]]
+		- Beads enable greater resolution

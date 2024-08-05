@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scRNA/Trajectory Inference.md",
+                "file": "scRNA/Dimensionality Reduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "scRNA/Trajectory Inference.md",
+                "file": "scRNA/Dimensionality Reduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "scRNA/Trajectory Inference.md",
+                "file": "scRNA/Dimensionality Reduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "scRNA/Trajectory Inference.md"
+                "file": "scRNA/Dimensionality Reduction.md"
               }
             }
           }
@@ -148,26 +148,26 @@
   },
   "active": "72680498113a00c2",
   "lastOpenFiles": [
-    "Screenshot 2024-08-05 at 5.16.57 PM.png",
-    "Screenshot 2024-08-05 at 5.15.48 PM.png",
-    "Screenshot 2024-08-05 at 5.09.31 PM.png",
-    "Screenshot 2024-08-05 at 5.08.15 PM.png",
-    "Screenshot 2024-08-05 at 5.06.58 PM.png",
-    "Screenshot 2024-08-05 at 5.03.08 PM.png",
-    "Screenshot 2024-08-05 at 4.54.11 PM.png",
-    "Screenshot 2024-08-05 at 4.52.38 PM.png",
-    "Screenshot 2024-08-05 at 4.51.07 PM.png",
-    "Screenshot 2024-08-05 at 4.50.36 PM.png",
-    "Screenshot 2024-08-05 at 4.46.39 PM.png",
-    "scRNA/Data Integration.md",
+    "scRNA/Data Normalization.md",
+    "scRNA/Quality Control.md",
     "scRNA/Trajectory Inference.md",
+    "scRNA/Clustering.md",
+    "scRNA/Confounding Factors.md",
+    "scRNA/Spatial Transcriptomics.md",
+    "Screenshot 2024-08-05 at 6.24.31 PM.png",
+    "Screenshot 2024-08-05 at 6.23.30 PM.png",
+    "Screenshot 2024-08-05 at 6.19.11 PM.png",
+    "Trajectory Inference.md",
+    "Screenshot 2024-08-05 at 6.16.49 PM.png",
+    "Screenshot 2024-08-05 at 6.14.17 PM.png",
+    "Screenshot 2024-08-05 at 6.13.52 PM.png",
+    "Screenshot 2024-08-05 at 6.07.37 PM.png",
+    "Screenshot 2024-08-05 at 6.05.17 PM.png",
+    "Screenshot 2024-08-05 at 5.55.58 PM.png",
+    "Screenshot 2024-08-05 at 5.45.09 PM.png",
+    "scRNA/Data Integration.md",
     "scRNA/Cell Type Identification.md",
     "scRNA/Dimensionality Reduction.md",
-    "scRNA/Data Normalization.md",
-    "scRNA/Confounding Factors.md",
-    "scRNA/Clustering.md",
-    "scRNA/Quality Control.md",
-    "Trajectory Inference.md",
     "scRNA/Differential Expression Analysis.md",
     "IMG_3080.heic",
     "scRNA/Intro to RNA Seq.md",
