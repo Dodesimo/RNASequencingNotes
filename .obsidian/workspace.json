@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scRNA/Dimensionality Reduction.md",
+                "file": "scRNA/Cell Type Analysis through inSitu.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "scRNA/Dimensionality Reduction.md",
+                "file": "scRNA/Cell Type Analysis through inSitu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "scRNA/Dimensionality Reduction.md",
+                "file": "scRNA/Cell Type Analysis through inSitu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "scRNA/Dimensionality Reduction.md"
+                "file": "scRNA/Cell Type Analysis through inSitu.md"
               }
             }
           }
@@ -148,6 +148,9 @@
   },
   "active": "72680498113a00c2",
   "lastOpenFiles": [
+    "Screenshot 2024-08-05 at 6.36.47 PM.png",
+    "scRNA/Dimensionality Reduction.md",
+    "scRNA/Cell Type Analysis through inSitu.md",
     "scRNA/Data Normalization.md",
     "scRNA/Quality Control.md",
     "scRNA/Trajectory Inference.md",
@@ -167,7 +170,6 @@
     "Screenshot 2024-08-05 at 5.45.09 PM.png",
     "scRNA/Data Integration.md",
     "scRNA/Cell Type Identification.md",
-    "scRNA/Dimensionality Reduction.md",
     "scRNA/Differential Expression Analysis.md",
     "IMG_3080.heic",
     "scRNA/Intro to RNA Seq.md",
