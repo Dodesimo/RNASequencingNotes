@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "762bd01de19df3a0",
+            "id": "72680498113a00c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scRNA/Differential Expression Analysis.md",
+                "file": "Trajectory Inference.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "scRNA/Differential Expression Analysis.md",
+                "file": "Trajectory Inference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "scRNA/Differential Expression Analysis.md",
+                "file": "Trajectory Inference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "scRNA/Differential Expression Analysis.md"
+                "file": "Trajectory Inference.md"
               }
             }
           }
@@ -146,8 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "762bd01de19df3a0",
+  "active": "72680498113a00c2",
   "lastOpenFiles": [
+    "scRNA/Cell Type Identification.md",
+    "Trajectory Inference.md",
+    "Screenshot 2024-08-05 at 1.48.03 PM.png",
+    "Screenshot 2024-08-05 at 1.44.06 PM.png",
+    "Screenshot 2024-08-05 at 1.40.44 PM.png",
+    "scRNA/Differential Expression Analysis.md",
     "Screenshot 2024-08-05 at 1.15.34 PM.png",
     "Screenshot 2024-08-05 at 1.04.40 PM.png",
     "Screenshot 2024-08-05 at 1.00.52 PM.png",
@@ -155,14 +161,9 @@
     "Screenshot 2024-08-05 at 12.59.39 PM.png",
     "Screenshot 2024-08-05 at 12.55.49 PM.png",
     "Screenshot 2024-08-05 at 12.54.49 PM.png",
-    "Screenshot 2024-08-05 at 12.52.35 PM.png",
-    "Screenshot 2024-08-05 at 12.45.04 PM.png",
-    "Screenshot 2024-08-05 at 12.44.31 PM.png",
     "scRNA/Clustering.md",
-    "scRNA/Differential Expression Analysis.md",
     "scRNA/Data Normalization.md",
     "scRNA/Data Integration.md",
-    "Screenshot 2024-08-05 at 12.28.06 PM.png",
     "scRNA/Dimensionality Reduction.md",
     "IMG_3080.heic",
     "scRNA/Confounding Factors.md",
