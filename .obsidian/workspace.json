@@ -11,11 +11,9 @@
             "id": "72680498113a00c2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "scRNA/Cell Type Analysis through inSitu.md",
-                "mode": "source",
-                "source": false
+                "file": "scRNA/Screenshot 2024-08-02 at 3.50.00 PM.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "scRNA/Cell Type Analysis through inSitu.md",
+                "file": "scRNA/Screenshot 2024-08-02 at 3.50.00 PM.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "scRNA/Cell Type Analysis through inSitu.md",
+                "file": "scRNA/Screenshot 2024-08-02 at 3.50.00 PM.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "scRNA/Cell Type Analysis through inSitu.md"
+                "file": "scRNA/Screenshot 2024-08-02 at 3.50.00 PM.png"
               }
             }
           }
@@ -146,28 +144,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "72680498113a00c2",
+  "active": "0b5230a7233e0b25",
   "lastOpenFiles": [
-    "Screenshot 2024-08-05 at 6.36.47 PM.png",
+    "scRNA/Cell Type Analysis through SSAM.md",
+    "scRNA/Screenshot 2024-08-05 at 6.36.47 PM.png",
     "scRNA/Dimensionality Reduction.md",
-    "scRNA/Cell Type Analysis through inSitu.md",
     "scRNA/Data Normalization.md",
     "scRNA/Quality Control.md",
     "scRNA/Trajectory Inference.md",
     "scRNA/Clustering.md",
     "scRNA/Confounding Factors.md",
     "scRNA/Spatial Transcriptomics.md",
-    "Screenshot 2024-08-05 at 6.24.31 PM.png",
-    "Screenshot 2024-08-05 at 6.23.30 PM.png",
-    "Screenshot 2024-08-05 at 6.19.11 PM.png",
+    "scRNA/Screenshot 2024-08-05 at 6.24.31 PM.png",
+    "scRNA/Screenshot 2024-08-05 at 6.23.30 PM.png",
+    "scRNA/Screenshot 2024-08-05 at 6.19.11 PM.png",
     "Trajectory Inference.md",
-    "Screenshot 2024-08-05 at 6.16.49 PM.png",
-    "Screenshot 2024-08-05 at 6.14.17 PM.png",
-    "Screenshot 2024-08-05 at 6.13.52 PM.png",
-    "Screenshot 2024-08-05 at 6.07.37 PM.png",
-    "Screenshot 2024-08-05 at 6.05.17 PM.png",
-    "Screenshot 2024-08-05 at 5.55.58 PM.png",
-    "Screenshot 2024-08-05 at 5.45.09 PM.png",
+    "scRNA/Screenshot 2024-08-05 at 6.16.49 PM.png",
+    "scRNA/Screenshot 2024-08-05 at 6.14.17 PM.png",
+    "scRNA/Screenshot 2024-08-05 at 6.13.52 PM.png",
+    "scRNA/Screenshot 2024-08-05 at 6.07.37 PM.png",
+    "scRNA/Screenshot 2024-08-05 at 6.05.17 PM.png",
+    "scRNA/Screenshot 2024-08-05 at 5.55.58 PM.png",
     "scRNA/Data Integration.md",
     "scRNA/Cell Type Identification.md",
     "scRNA/Differential Expression Analysis.md",
