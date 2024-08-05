@@ -22,7 +22,7 @@
 2. tSNE = t-stochastic Neighborhood Embedding. 
 	1. Distance based on neighbors.
 	2. Probability that point i would pick point j as nearest neighbor needs to be the same for a low dimensional space and a high dimensional space. 
-	3. Utilizes Kullback-Leibler divergence between complex dimensional space and smaller dimensional space in order to assess random placement of points on a line. 
+	3. Utilizes Kullback-Leibler divergence between complex dimensional space and smaller dimensional space in order to assess random placement of ![[IMG_3080.heic]]points on a line. 
 		1. Loss function. 
 	4. Neural network type of model: therefore, stochastic.
 	5. Cost function focused on minimization of local minima. 
