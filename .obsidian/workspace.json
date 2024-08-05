@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scRNA/Clustering.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "61d001da50333925",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "scRNA/Data Integration.md",
+                "file": "scRNA/Differential Expression Analysis.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "scRNA/Clustering.md",
+                "file": "scRNA/Differential Expression Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "scRNA/Clustering.md",
+                "file": "scRNA/Differential Expression Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "scRNA/Clustering.md"
+                "file": "scRNA/Differential Expression Analysis.md"
               }
             }
           }
@@ -160,19 +148,21 @@
   },
   "active": "762bd01de19df3a0",
   "lastOpenFiles": [
+    "Screenshot 2024-08-05 at 1.15.34 PM.png",
+    "Screenshot 2024-08-05 at 1.04.40 PM.png",
+    "Screenshot 2024-08-05 at 1.00.52 PM.png",
+    "Screenshot 2024-08-05 at 1.00.33 PM.png",
+    "Screenshot 2024-08-05 at 12.59.39 PM.png",
+    "Screenshot 2024-08-05 at 12.55.49 PM.png",
+    "Screenshot 2024-08-05 at 12.54.49 PM.png",
+    "Screenshot 2024-08-05 at 12.52.35 PM.png",
+    "Screenshot 2024-08-05 at 12.45.04 PM.png",
+    "Screenshot 2024-08-05 at 12.44.31 PM.png",
+    "scRNA/Clustering.md",
+    "scRNA/Differential Expression Analysis.md",
     "scRNA/Data Normalization.md",
     "scRNA/Data Integration.md",
-    "scRNA/Clustering.md",
     "Screenshot 2024-08-05 at 12.28.06 PM.png",
-    "Screenshot 2024-08-05 at 12.26.11 PM.png",
-    "Screenshot 2024-08-05 at 12.23.16 PM.png",
-    "Screenshot 2024-08-05 at 12.21.15 PM.png",
-    "Screenshot 2024-08-05 at 12.18.48 PM.png",
-    "Screenshot 2024-08-05 at 12.17.53 PM.png",
-    "Screenshot 2024-08-05 at 12.15.05 PM.png",
-    "Screenshot 2024-08-05 at 12.12.40 PM.png",
-    "Screenshot 2024-08-05 at 12.11.47 PM.png",
-    "Screenshot 2024-08-05 at 12.07.13 PM.png",
     "scRNA/Dimensionality Reduction.md",
     "IMG_3080.heic",
     "scRNA/Confounding Factors.md",
